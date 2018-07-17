@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FirebaseAuthSample</string>
+    <string name="signup">Sign Up</string>
+    <string name="common_signin_button_text">Sign In</string>
+</resources>

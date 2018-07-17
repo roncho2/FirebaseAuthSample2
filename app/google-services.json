@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "86516387112",
+    "firebase_url": "https://roncho2-51cd1.firebaseio.com",
+    "project_id": "roncho2-51cd1",
+    "storage_bucket": "roncho2-51cd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86516387112:android:b4b5c34816cdaf06",
+        "android_client_info": {
+          "package_name": "com.example.android.firebaseauthsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86516387112-ik5afg9mksd80so9l96ga82hp10rmtn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.firebaseauthsample",
+            "certificate_hash": "e5100b8269597c2e6ad57861040c8264ebfa49a1"
+          }
+        },
+        {
+          "client_id": "86516387112-ltv7prqnr1lcpfldh1u7no5kj4e9jckl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTUOlzjGoUGR9VwsN6CvL5YAS4Bc8y3Y0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86516387112-ltv7prqnr1lcpfldh1u7no5kj4e9jckl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
